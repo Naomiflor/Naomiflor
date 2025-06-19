@@ -1,3 +1,4 @@
+<img src="naoportada.png" alt="Banner de Naomí" style="width:100%; border-radius:10px;" />
 <h1 align="center">¡Hola! Soy Naomí 👋</h1>
 
 ✨ Estudiante de Análisis de Sistemas (antes Psicología)  
