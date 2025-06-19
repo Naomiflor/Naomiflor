@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">¡Hola! Soy Naomí 👋</h1>
 
-<!--
-**Naomiflor/Naomiflor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Estudiante de Análisis de Sistemas (antes Psicología)  
+💻 Me gusta ayudar a las personas y crear cosas útiles con software  
+🎨 Interesada en el diseño visual, UI/UX y la experiencia del usuario  
+👗 Estoy trabajando en un sistema de tienda de ropa con Java  
+📚 Aprendiendo Java, SQL y desarrollo web
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Tecnologías que estoy aprendiendo
+- Java ☕
+- SQL 🗃️
+- HTML, CSS y diseño de interfaces 🎨
+
+
+
+### 🛠️ Proyectos en los que estoy trabajando
+- Sistema de tienda de ropa: gestión de productos, clientes y ventas  
+- Interfaces gráficas con Java Swing
+
+
+
+### 📫 ¿Querés contactarme?
+- GitHub: [Naomimor](https://github.com/Naomimor)
