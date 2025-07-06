@@ -82,12 +82,15 @@
 </p>
 
 
-### 📫 ¿Querés contactarme?
-- GitHub: [Naomimor](https://github.com/Naomimor)
+
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/](https://www.linkedin.com/in/florencia-naomi-rodriguez-maturano-828375201/))
 [![image](https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:https://accounts.google.com/SignOutOptions?hl=es-419&continue=https://mail.google.com/mail&service=mail&ec=GBRAFw)
-  
+  <a href="https://github.com/Naomimor" target="_blank">
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+
+
 </div>
