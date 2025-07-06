@@ -38,7 +38,7 @@
 - Sistema de tienda de ropa: gestión de productos, clientes y ventas  
 - Interfaces gráficas con Java Swing
 
-   <h2><img src='https://c.tenor.com/--AQwe1rA8EAAAAi/batman-pixel-art.gif' alt="batman" width="6%">💻 Languages and Tools:</h2>
+   <h2>💻 Languages and Tools:</h2>
 
 <p>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
