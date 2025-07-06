@@ -17,6 +17,44 @@
 
 
   <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+  <h2><img src='https://c.tenor.com/--AQwe1rA8EAAAAi/batman-pixel-art.gif' alt="batman" width="6%">💻 Languages and Tools:</h2>
+
+<p>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+ </p>
+
+
+<table>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=java,spring,nodejs" /></td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frontend:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=react,html,css,js,figma" /></td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql" /></td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=git,github" /></td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse,visualstudio" /></td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=windows" /></td>
+  </tr>
+</table>
 
 
 
