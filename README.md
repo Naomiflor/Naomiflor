@@ -17,7 +17,28 @@
 
 
   <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
-  <h2><img src='https://c.tenor.com/--AQwe1rA8EAAAAi/batman-pixel-art.gif' alt="batman" width="6%">💻 Languages and Tools:</h2>
+  
+ 
+
+
+
+  
+
+
+
+ 
+### 📌 Tecnologías que estoy aprendiendo
+- Java ☕
+- SQL 🗃️
+- HTML, CSS y diseño de interfaces 🎨
+
+
+
+### 🛠️ Proyectos en los que estoy trabajando
+- Sistema de tienda de ropa: gestión de productos, clientes y ventas  
+- Interfaces gráficas con Java Swing
+
+   <h2><img src='https://c.tenor.com/--AQwe1rA8EAAAAi/batman-pixel-art.gif' alt="batman" width="6%">💻 Languages and Tools:</h2>
 
 <p>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
@@ -55,24 +76,6 @@
     <td><img height="40" src="https://skillicons.dev/icons?i=windows" /></td>
   </tr>
 </table>
-
-
-
-  
-
-
-
- 
-### 📌 Tecnologías que estoy aprendiendo
-- Java ☕
-- SQL 🗃️
-- HTML, CSS y diseño de interfaces 🎨
-
-
-
-### 🛠️ Proyectos en los que estoy trabajando
-- Sistema de tienda de ropa: gestión de productos, clientes y ventas  
-- Interfaces gráficas con Java Swing
 
 <p align="center">
   <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
