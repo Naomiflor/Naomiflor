@@ -52,7 +52,7 @@
 
 <table>
   <tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"><strong>🛢️ Base de datos:</strong></td>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"><strong>💻 Backend:</strong></td>
     <td><img height="40" src="https://skillicons.dev/icons?i=java,spring,nodejs" /></td>
   </tr>
   <tr>
