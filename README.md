@@ -52,27 +52,27 @@
 
 <table>
   <tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"><strong>🛢️ Base de datos:</strong></td>
     <td><img height="40" src="https://skillicons.dev/icons?i=java,spring,nodejs" /></td>
   </tr>
   <tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frontend:</td>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"><strong>🎨 Interfaz:</strong></td>
     <td><img height="40" src="https://skillicons.dev/icons?i=react,html,css,js,figma" /></td>
   </tr>
   <tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"><strong>🛢️ Base de datos:</strong></td>
     <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql" /></td>
   </tr>
   <tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"><strong>🛠️ Control de versiones:</strong></td>
     <td><img height="40" src="https://skillicons.dev/icons?i=git,github" /></td>
   </tr>
   <tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"><strong>🧠 IDE</strong></td>
     <td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse,visualstudio" /></td>
   </tr>
   <tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"><strong>💻 SO</strong></td>
     <td><img height="40" src="https://skillicons.dev/icons?i=windows" /></td>
   </tr>
 </table>
