@@ -72,7 +72,7 @@
     <td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse,visualstudio" /></td>
   </tr>
   <tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"><strong>💻 SO</strong></td>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"><strong> 💻 SO</strong></td>
     <td><img height="40" src="https://skillicons.dev/icons?i=windows" /></td>
   </tr>
 </table>
